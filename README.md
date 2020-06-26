@@ -1,7 +1,7 @@
 você pode rodar com:  
 `npx webpack`
 
-pode também:  
+pode também caso tenha o arquivo **webpack.config.js**, nesse projeto não tem:  
 `npx webpack --config webpack.config.js`  
 
 e usando npm:  
