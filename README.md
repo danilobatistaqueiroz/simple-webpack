@@ -23,3 +23,6 @@ então é só chamar com:
 O webpack por padrão não aceita css, e nenhum outro formato a não ser js
 
 Esse projeto só aceita js
+
+Na pasta **dist** está o arquivo **index.html**, ele faz referência ao bundle gerado pelo **Webpack**  
+O bundle é gerado na pasta **dist** também.
